@@ -12,7 +12,7 @@
 
 * 👋 Sou o Gustavo, um desenvolvedor Fullstack construindo o futuro da web, um commit de cada vez.
 * 👀 Tenho grande interesse em arquiteturas **Backend robustas e escaláveis**, e adoro explorar os ecossistemas **Node.js**, **Laravel** e **Django**. Também sou um grande fã de **games** de todos os tipos!
-* 🌱 Atualmente estou aprofundando meus conhecimentos em **[alguma tecnologia específica que você está aprendendo agora, ou um conceito, ex: "arquitetura de microsserviços com Docker e Kubernetes" ou "padrões de design avançados em TypeScript"]**.
+* 🌱 Atualmente estou aprofundando meus conhecimentos em **Typescript & Python**.
 * ⚡ Curiosidade: A Força é forte comigo (especialmente quando estou codando ao som de uma boa playlist)! Além disso, sou um grande fã da saga Star Wars.
 
 ---
